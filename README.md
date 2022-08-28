@@ -13,14 +13,14 @@ In detail, starting from *LANCE*, the state-of-the-art model presented by Mastro
 * ##### Code
     - *Pre-Training*: The code we used to pre-train from scratch a new <a href="">T5 model</a> on a bigger dataset is available under this path <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Code/Pre-Training">Code/Pre-Training</a>
     - *Fine-Tuning*: The code we used to fine-tune all the approaches is available at this path <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Code/Fine-Tuning">Code/Fine-Tuning</a>
-    - *Miscellaneous*: Such folder, contains the additional script we used to: (i) train the sentencepiece tokenizer, (ii) to select the best-performing models performing early stopping and (iii) to run the analysis described in the paper. Here the link: <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Code/Misc">Code/Misc</a>
+    - *Miscellaneous*: Such folder, contains the additional script we used to: (i) train the sentencepiece tokenizer, (ii) to select the best-performing models performing early stopping and (iii) to run the analysis described in the paper. <br> Here the link: <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Code/Misc">Code/Misc</a>\
     As for the sentencepiece model, our trained tokenizer is available here: https://drive.google.com/drive/folders/1uZk5fTcsErpsRPoH8Gz-5akhqM-0eklU?usp=sharing
         
 
 * ##### Datasets
 
-    - All the dataset we built and used are available at this link: https://drive.google.com/drive/folders/1bKaQlcz3W_v8VJqIePPJjqT17pwdJCJ1?usp=sharing
-    PLease note that, for each training, test and eval set, we share both the TSV file needed to train the T5-based models and also the CSV files containing additional information (e.g, className from which the method has been retrieved, log statements per methods)
+    - All the dataset we built and used are available at this link: https://drive.google.com/drive/folders/1bKaQlcz3W_v8VJqIePPJjqT17pwdJCJ1?usp=sharing <br>
+    Please note that, for each training, test and eval set, we share both the TSV file needed to train the T5-based models and also the CSV files containing additional information (e.g, className from which the method has been retrieved, log statements per methods)
 
 
 
