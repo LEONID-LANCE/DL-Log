@@ -44,7 +44,7 @@ In detail, starting from *LANCE*, the state-of-the-art model presented by Mastro
 
 * ##### IMG:  :open_file_folder: 
     
-    - <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Img/LEONID-Single-Log-Examples"> Examples of semantically equivalent predictions made by LEONID when injecting single-log statements</a>
-    - <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Img/LEONID-Multi-Log-Examples"> Examples of correct predictions made by LEONID when injecting several log statements</a>
+    - <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Table%26Img/LEONID-Single-Log-Examples"> Examples of semantically equivalent predictions made by LEONID when injecting single-log statements</a>
+    - <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Table%26Img/LEONID-Multi-Log-Examples"> Examples of correct predictions made by LEONID when injecting several log statements</a>
     
 
