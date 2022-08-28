@@ -42,7 +42,9 @@ In detail, starting from *LANCE*, the state-of-the-art model presented by Mastro
       * <a href="https://drive.google.com/file/d/1HCOwaNfhJ1e3RBdwNFQx-1ER2jeTJXTa/view?usp=sharing">LEONID Single Log</a>
 
 
-
-
+* ##### IMG:  :open_file_folder: 
+    
+    - <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Img/LEONID-Single-Log-Examples"> Examples of semantically equivalent predictions made by LEONID when injecting single-log statements</a>
+    - <a href="https://github.com/LEONID-LANCE/DL-Log/tree/main/Img/LEONID-Multi-Log-Examples"> Examples of correct predictions made by LEONID when injecting several log statements</a>
     
 
